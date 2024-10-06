@@ -15,6 +15,7 @@
             }
         ]
     },
+
     "default": {
         "asgiref": {
             "hashes": [
@@ -34,7 +35,6 @@
             "markers": "python_version >= '3.10'",
             "version": "==5.1"
         },
-<<<<<<< HEAD
         "django-debug-toolbar": {
             "hashes": [
                 "sha256:36e421cb908c2f0675e07f9f41e3d1d8618dc386392ec82d23bcfcd5d29c7044",
@@ -44,8 +44,6 @@
             "markers": "python_version >= '3.8'",
             "version": "==4.4.6"
         },
-=======
->>>>>>> 522b896 (setting up drf project)
         "django-rest": {
             "hashes": [
                 "sha256:24a0eca6aa53864affcab5a880173f701e5387ad4e5885e12c81184432d6e15b"
@@ -91,5 +89,8 @@
             "version": "==4.12.2"
         }
     },
+
+ 
+
     "develop": {}
 }
